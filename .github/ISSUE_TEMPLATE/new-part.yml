@@ -1,0 +1,24 @@
+name: Propose a new part
+description: Add a connector, cover, module or terminal.
+title: 'New part: '
+body:
+  - type: input
+    id: reference
+    attributes:
+      label: Manufacturer and part number
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Part details
+      description: Include PSA references, application, colour, keying, contact gender, and wire size for terminals.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources and photographs
+      description: Link datasheets or drawings; identify the source of photos and permission to share them.
+    validations:
+      required: true

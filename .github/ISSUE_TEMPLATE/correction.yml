@@ -1,0 +1,24 @@
+name: Correct a catalogue entry
+description: Suggest a reference, compatibility, description or photo correction.
+title: 'Correction: '
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry ID or part number
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Proposed correction
+      description: Explain the current value and what it should become.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Sources and evidence
+      description: Link manufacturer documentation or attach a clear photo. Explain how you verified the match.
+    validations:
+      required: true
