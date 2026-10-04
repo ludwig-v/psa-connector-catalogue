@@ -490,6 +490,12 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
   - [13851311 — blue](entries/entry-140.html)
   - [13851310 — white](entries/entry-141.html)
 
+- Associated terminals
+  - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
+  - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
+  - [TE MQS 144969-1](entries/entry-59.html)
+
+
 ## [entry-136](entries/entry-136.html)
 
 60 Way F DUO-TWIN 0.64 Unsealed Connector Yellow
@@ -501,6 +507,12 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
   - [13851312 — brown](entries/entry-139.html)
   - [13851311 — blue](entries/entry-140.html)
   - [13851310 — white](entries/entry-141.html)
+
+- Associated terminals
+  - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
+  - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
+  - [TE MQS 144969-1](entries/entry-59.html)
+
 
 ## [entry-137](entries/entry-137.html)
 
@@ -514,6 +526,12 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
   - [13852936 — grey](entries/entry-143.html)
   - [13852930 — green](entries/entry-144.html)
 
+- Associated terminals
+  - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
+  - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
+  - [TE MQS 144969-1](entries/entry-59.html)
+
+
 ## [entry-138](entries/entry-138.html)
 
 60 Way F DUO-TWIN 0.64 Unsealed Connector Brown
@@ -526,6 +544,12 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
   - [13852936 — grey](entries/entry-143.html)
   - [13852930 — green](entries/entry-144.html)
 
+- Associated terminals
+  - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
+  - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
+  - [TE MQS 144969-1](entries/entry-59.html)
+
+
 ## [entry-139](entries/entry-139.html)
 
 20 Way F MTS 0.64 Unsealed Connector Brown
@@ -536,6 +560,12 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated module holders
   - [13854846 — black](entries/entry-135.html)
   - [13854822 — yellow](entries/entry-136.html)
+
+- Associated terminals
+  - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
+  - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
+  - [TE MQS 144969-1](entries/entry-59.html)
+
 
 ## [entry-140](entries/entry-140.html)
 
@@ -548,6 +578,12 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
   - [13854846 — black](entries/entry-135.html)
   - [13854822 — yellow](entries/entry-136.html)
 
+- Associated terminals
+  - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
+  - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
+  - [TE MQS 144969-1](entries/entry-59.html)
+
+
 ## [entry-141](entries/entry-141.html)
 
 20-way female-terminal module, white
@@ -558,6 +594,12 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated module holders
   - [13854846 — black](entries/entry-135.html)
   - [13854822 — yellow](entries/entry-136.html)
+
+- Associated terminals
+  - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
+  - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
+  - [TE MQS 144969-1](entries/entry-59.html)
+
 
 ## [entry-142](entries/entry-142.html)
 
@@ -570,6 +612,12 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
   - [13854835 — blue](entries/entry-137.html)
   - [13854828 — brown](entries/entry-138.html)
 
+- Associated terminals
+  - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
+  - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
+  - [TE MQS 144969-1](entries/entry-59.html)
+
+
 ## [entry-143](entries/entry-143.html)
 
 20-way female-terminal module, grey
@@ -580,6 +628,12 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated module holders
   - [13854835 — blue](entries/entry-137.html)
   - [13854828 — brown](entries/entry-138.html)
+
+- Associated terminals
+  - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
+  - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
+  - [TE MQS 144969-1](entries/entry-59.html)
+
 
 ## [entry-144](entries/entry-144.html)
 
@@ -592,13 +646,11 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
   - [13854835 — blue](entries/entry-137.html)
   - [13854828 — brown](entries/entry-138.html)
 
-## [entry-145](entries/entry-145.html)
+- Associated terminals
+  - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
+  - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
+  - [TE MQS 144969-1](entries/entry-59.html)
 
-20-way female-terminal module, violet
-
-- ECU: BSI
-- Aptiv: 33502230
-- Former reference: F670300
 
 ## [entry-109](entries/entry-109.html)
 
