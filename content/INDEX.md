@@ -233,9 +233,14 @@ Hybrid 1.5 / 2.8 mm — 16-way, male-terminal housing, grey
 
 MQS 6-way cover / module holder black
 
+
 ## [entry-11](entries/entry-11.html)
 
 MQS 6-way inner housing
+
+- Associated terminals
+  - [T36 — TE MQS 144969-1, 0.20–0.60 mm²](entries/entry-59.html)
+
 
 ## [entry-12](entries/entry-12.html)
 
@@ -245,13 +250,16 @@ MQS 6-way connector locking device
 
 MQS 6-way cover / module holder white
 
+
 ## [entry-14](entries/entry-14.html)
 
 MQS 6-way cover / module holder green
 
+
 ## [entry-15](entries/entry-15.html)
 
 MQS 6-way cover / module holder brown
+
 
 ## [entry-16](entries/entry-16.html)
 
@@ -309,6 +317,10 @@ MQS inner terminal housing (insert), 26-way, black
   - 185879-1 — yellow
   - 185879-2 — blue
 
+- Associated terminals
+  - [T36 — TE MQS 144969-1, 0.20–0.60 mm²](entries/entry-59.html)
+
+
 ## [entry-24](entries/entry-24.html)
 
 MQS module holder, 12-way, black, 180° wire exit
@@ -329,6 +341,10 @@ MQS module holder, 12-way, brown, 90° wire exit
 
 MQS inner terminal housing (insert), 12-way, black — straight and 90° versions
 
+- Associated terminals
+  - [T36 — TE MQS 144969-1, 0.20–0.60 mm²](entries/entry-59.html)
+
+
 ## [entry-30](entries/entry-30.html)
 
 Connector lock, black
@@ -343,6 +359,10 @@ MQS 3-way black, male-terminal housing
 
 MQS 3-way black — Premium tweeter connector (Denon, Focal, JBL)
 
+- Associated terminals
+  - [T36 — TE MQS 144969-1, 0.20–0.60 mm²](entries/entry-59.html)
+
+
 ## [entry-133](entries/entry-133.html)
 
 MQS 3-way, female-terminal housing, black — separate cover
@@ -351,6 +371,10 @@ MQS 3-way, female-terminal housing, black — separate cover
 - Associated terminals
   - 6542 WY / 144969-1 — 0.20–0.60 mm²
 - Associated cover: 185308-1
+
+- Associated terminals
+  - [T36 — TE MQS 144969-1, 0.20–0.60 mm²](entries/entry-59.html)
+
 
 ## [entry-134](entries/entry-134.html)
 
@@ -364,6 +388,10 @@ MQS 3-way, separate cover / locking sleeve, black
 MQS 4-way black, female-terminal housing
 
 - ECU: SMEG / NAC screen connector
+
+- Associated terminals
+  - [T36 — TE MQS 144969-1, 0.20–0.60 mm²](entries/entry-59.html)
+
 
 ## [entry-71](entries/entry-71.html)
 
@@ -493,7 +521,7 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
   - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
-  - [TE MQS 144969-1](entries/entry-59.html)
+  - [T36 — TE MQS 144969-1](entries/entry-59.html)
 
 
 ## [entry-136](entries/entry-136.html)
@@ -511,7 +539,7 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
   - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
-  - [TE MQS 144969-1](entries/entry-59.html)
+  - [T36 — TE MQS 144969-1](entries/entry-59.html)
 
 
 ## [entry-137](entries/entry-137.html)
@@ -529,7 +557,7 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
   - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
-  - [TE MQS 144969-1](entries/entry-59.html)
+  - [T36 — TE MQS 144969-1](entries/entry-59.html)
 
 
 ## [entry-138](entries/entry-138.html)
@@ -547,7 +575,7 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
   - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
-  - [TE MQS 144969-1](entries/entry-59.html)
+  - [T36 — TE MQS 144969-1](entries/entry-59.html)
 
 
 ## [entry-139](entries/entry-139.html)
@@ -564,7 +592,7 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
   - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
-  - [TE MQS 144969-1](entries/entry-59.html)
+  - [T36 — TE MQS 144969-1](entries/entry-59.html)
 
 
 ## [entry-140](entries/entry-140.html)
@@ -581,7 +609,7 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
   - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
-  - [TE MQS 144969-1](entries/entry-59.html)
+  - [T36 — TE MQS 144969-1](entries/entry-59.html)
 
 
 ## [entry-141](entries/entry-141.html)
@@ -598,7 +626,7 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
   - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
-  - [TE MQS 144969-1](entries/entry-59.html)
+  - [T36 — TE MQS 144969-1](entries/entry-59.html)
 
 
 ## [entry-142](entries/entry-142.html)
@@ -615,7 +643,7 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
   - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
-  - [TE MQS 144969-1](entries/entry-59.html)
+  - [T36 — TE MQS 144969-1](entries/entry-59.html)
 
 
 ## [entry-143](entries/entry-143.html)
@@ -632,7 +660,7 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
   - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
-  - [TE MQS 144969-1](entries/entry-59.html)
+  - [T36 — TE MQS 144969-1](entries/entry-59.html)
 
 
 ## [entry-144](entries/entry-144.html)
@@ -649,7 +677,7 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - [T27 — DUO-TWIN 6 008 01 11, 0.35 / 0.50 mm²](entries/entry-65.html)
   - [T28 — DUO-TWIN 6 008 01 31, 0.60 / 0.75 mm²](entries/entry-66.html)
-  - [TE MQS 144969-1](entries/entry-59.html)
+  - [T36 — TE MQS 144969-1](entries/entry-59.html)
 
 
 ## [entry-109](entries/entry-109.html)
@@ -1082,7 +1110,7 @@ TE / AMP MCP 2.8 female terminals
 
 ## [entry-59](entries/entry-59.html)
 
-MQS 0.63 / 0.64 mm female terminal
+T36 — MQS 0.63 / 0.64 mm female terminal
 
 - Associated housing: standard tweeter — 6542 WW / 185309-1
 
