@@ -478,6 +478,102 @@ NSCC hybrid 6-way (4 × 1.5 + 2 × 2.8 mm), grey
 - Associated terminals
   - T12 4 × NSCC 1.5 mm + 2 × UCC2 2.8 mm
 
+## [entry-135](entries/entry-135.html)
+
+60-way female-terminal module holder, black; grey lever
+
+- ECU: BSI
+- Aptiv: 13854846
+- Former reference: F001300
+
+## [entry-136](entries/entry-136.html)
+
+60-way female-terminal module holder, yellow; grey lever
+
+- ECU: BSI
+- Aptiv: 13854822
+- Former reference: F101300
+
+## [entry-137](entries/entry-137.html)
+
+60-way female-terminal module holder, blue; grey lever
+
+- ECU: BSI
+- Aptiv: 13854835
+- Former reference: F201300
+
+## [entry-138](entries/entry-138.html)
+
+60-way female-terminal module holder, brown; grey lever
+
+- ECU: BSI
+- Aptiv: 13854828
+- Former reference: F301300
+
+## [entry-139](entries/entry-139.html)
+
+20-way female-terminal module, brown
+
+- ECU: BSI
+- Aptiv: 13851312
+- Former reference: F070300
+
+## [entry-140](entries/entry-140.html)
+
+20-way female-terminal module, blue
+
+- ECU: BSI
+- Aptiv: 13851311
+- Former reference: F170300
+
+## [entry-141](entries/entry-141.html)
+
+20-way female-terminal module, white
+
+- ECU: BSI
+- Aptiv: 13851310
+- Former reference: F270300
+
+## [entry-142](entries/entry-142.html)
+
+20-way female-terminal module, red
+
+- ECU: BSI
+- Aptiv: 13852932
+- Former reference: F370300
+
+## [entry-143](entries/entry-143.html)
+
+20-way female-terminal module, grey
+
+- ECU: BSI
+- Aptiv: 13852936
+- Former reference: F470300
+
+## [entry-144](entries/entry-144.html)
+
+20-way female-terminal module, green
+
+- ECU: BSI
+- Aptiv: 13852930
+- Former reference: F570300
+
+## [entry-145](entries/entry-145.html)
+
+20-way female-terminal module, violet
+
+- ECU: BSI
+- Aptiv: 33502230
+- Former reference: F670300
+
+## [entry-146](entries/entry-146.html)
+
+Lever for 60-way module holders, grey
+
+- ECU: BSI
+- Aptiv: 33508499
+- Former reference: S650300
+
 ## [entry-109](entries/entry-109.html)
 
 NAC main module holder — 56-way female connector, black body with grey lever
