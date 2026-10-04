@@ -107,7 +107,11 @@ SICMA Mini-Sealed 6-way female-terminal housing — black, yellow insert
 - D9 / Z8 headlamp
 - Associated terminals
   - T01 SICMA 1.5 mm female contacts
-  - T02 Candidate hybrid FCI variant: 1.5 + 2.8 mm
+  - T02 Hybrid SICMA: 1.5 + 2.8 mm
+- PSA: 6541 H8
+- Aptiv: 10768569
+- Former reference: 211PC069S0049
+
 
 ## [entry-91](entries/entry-91.html)
 
