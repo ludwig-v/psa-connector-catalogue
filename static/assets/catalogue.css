@@ -36,3 +36,29 @@ body{font:15px system-ui,sans-serif;color:#182a3b;background:#f3f6f8;margin:0}ma
 .buy-links .distributor-icon{width:16px;height:16px;object-fit:contain;display:block;margin:0;padding:0}
 /* Keep adjacent manufacturer references on separate lines without printing Buy controls. */
 @media print{.buy-links{display:block;height:0;margin:0;padding:0;border:0;font-size:0;line-height:0}.buy-links>*{display:none!important}}
+/* Stack catalogue entries on phones; retain desktop tables and print layout. */
+@media screen and (max-width:700px){
+ main{box-sizing:border-box;width:100%;min-width:0;padding:16px}
+ .toolbar input{box-sizing:border-box;width:100%;min-width:0}
+ h2{font-size:21px;overflow-wrap:anywhere}
+ .table-wrap{overflow:visible}
+ table.housing-table,table.terminal-table,.table-wrap table:has(.wire-size){display:block;width:100%;min-width:0;background:transparent}
+ .housing-table>thead,.terminal-table>thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+ .housing-table>tbody,.terminal-table>tbody{display:block}
+ .housing-table>tbody>tr,.terminal-table>tbody>tr{display:block;margin:0 0 16px;border:1px solid #d9e2e8;border-radius:8px;background:white;overflow:hidden}
+ .housing-table>tbody>tr[hidden],.terminal-table>tbody>tr[hidden]{display:none}
+ .housing-table>tbody>tr>td,.terminal-table>tbody>tr>td{display:block;box-sizing:border-box;width:auto;min-width:0;padding:12px;border:0;border-bottom:1px solid #edf2f5;text-align:left;font-size:14px;overflow-wrap:anywhere}
+ .housing-table>tbody>tr>td:first-child,.terminal-table>tbody>tr>td:first-child{background:#eaf1f5;font-size:15px;font-weight:600}
+ .housing-table>tbody>tr>td::before,.terminal-table>tbody>tr>td::before{display:block;margin-bottom:6px;color:#526574;font-size:12px;font-weight:600}
+ .housing-table>tbody>tr>td:nth-child(2)::before,.terminal-table>tbody>tr>td:nth-child(2)::before{content:'PSA / other brand part number'}
+ .housing-table>tbody>tr>td:nth-child(3)::before,.terminal-table>tbody>tr>td:nth-child(3)::before{content:'Manufacturer part number'}
+ .housing-table>tbody>tr>td:nth-child(4)::before,.terminal-table>tbody>tr>td:nth-child(5)::before{content:'Contact type'}
+ .terminal-table>tbody>tr>td:nth-child(4)::before{content:'Wire size (mm²)'}
+ .housing-table>tbody>tr>td:last-child,.terminal-table>tbody>tr>td:last-child{text-align:center;border-bottom:0}
+ .thumb{width:220px;height:155px}
+ .buy-links{gap:8px;flex-wrap:wrap;margin-top:8px}
+ .buy-links a{width:30px;height:30px}
+ .contact-links summary{padding:6px 0}
+ table:not(.housing-table):not(.terminal-table){display:block;min-width:0;max-width:100%;overflow-x:auto}
+ .zoom-header h2{min-width:0;overflow-wrap:anywhere}
+}
