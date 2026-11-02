@@ -62,3 +62,7 @@ body{font:15px system-ui,sans-serif;color:#182a3b;background:#f3f6f8;margin:0}ma
  table:not(.housing-table):not(.terminal-table){display:block;min-width:0;max-width:100%;overflow-x:auto}
  .zoom-header h2{min-width:0;overflow-wrap:anywhere}
 }
+
+.cross-reference-guide{margin:16px 0;padding:16px;border:1px solid #bdcbd5;border-radius:8px;background:white}.cross-reference-guide h3{margin-top:0}.cross-reference-table td:last-child{width:auto;text-align:left}tr[id],aside[id],h2[id]{scroll-margin-top:16px}tr:target,aside:target{outline:2px solid #167bae;outline-offset:-2px}
+
+.paired-reference{display:block;margin:0}.assembly-note{font-size:12px;font-weight:400;margin:8px 0 0}

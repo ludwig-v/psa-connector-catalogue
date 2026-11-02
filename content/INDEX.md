@@ -237,6 +237,9 @@ Hybrid 1.5 / 2.8 mm — 16-way, male-terminal housing, grey
 
 MQS 6-way cover / module holder black
 
+- Cross-reference: TE 953382-1 / Molex 98298-0001
+- Additional parts required: [185311-1 insert](entries/entry-11.html) and [953381-1 locking device](entries/entry-12.html).
+
 
 ## [entry-11](entries/entry-11.html)
 
@@ -254,15 +257,24 @@ MQS 6-way connector locking device
 
 MQS 6-way cover / module holder white
 
+- Cross-reference: TE 953382-2 / Molex 98298-0002
+- Additional parts required: [185311-1 insert](entries/entry-11.html) and [953381-1 locking device](entries/entry-12.html).
+
 
 ## [entry-14](entries/entry-14.html)
 
 MQS 6-way cover / module holder green
 
+- Cross-reference: TE 953382-3 / Molex 98298-0003
+- Additional parts required: [185311-1 insert](entries/entry-11.html) and [953381-1 locking device](entries/entry-12.html).
+
 
 ## [entry-15](entries/entry-15.html)
 
 MQS 6-way cover / module holder brown
+
+- Cross-reference: TE 953382-4 / Molex 98298-0004
+- Additional parts required: [185311-1 insert](entries/entry-11.html) and [953381-1 locking device](entries/entry-12.html).
 
 
 ## [entry-16](entries/entry-16.html)
@@ -440,6 +452,9 @@ MOX 6-way, female-terminal housing black
 - Associated terminals
   - T11 MOX 0.63 mm — series 98658
 
+- Cross-reference: TE 953382-1 / Molex 98298-0001
+
+
 ## [entry-35](entries/entry-35.html)
 
 MOX 6-way, female-terminal housing white
@@ -447,6 +462,9 @@ MOX 6-way, female-terminal housing white
 - ECU: MATT
 - Associated terminals
   - T11 MOX 0.63 mm — series 98658
+
+- Cross-reference: TE 953382-2 / Molex 98298-0002
+
 
 ## [entry-36](entries/entry-36.html)
 
@@ -456,6 +474,9 @@ MOX 6-way, female-terminal housing green
 - Associated terminals
   - T11 MOX 0.63 mm — series 98658
 
+- Cross-reference: TE 953382-3 / Molex 98298-0003
+
+
 ## [entry-37](entries/entry-37.html)
 
 MOX 6-way, female-terminal housing brown
@@ -463,6 +484,9 @@ MOX 6-way, female-terminal housing brown
 - ECU: MATT
 - Associated terminals
   - T11 MOX 0.63 mm — series 98658
+
+- Cross-reference: TE 953382-4 / Molex 98298-0004
+
 
 ## [entry-38](entries/entry-38.html)
 
